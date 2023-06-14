@@ -5,7 +5,7 @@ import {TypeAnimation} from 'react-type-animation'
 const Main = () => {
   return (
     <div id='main'>
-        <img className= "bg-[url('/seoultop.jpg')] w-full h-screen bg-cover "></img>
+        <img className= "bg-cover bg-[url('/seoultop.jpg')] w-full h-screen "></img>
         <div className='w-full h-screen absolute top-0 left-0 bg-white/50'>
         <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center'>
             <h1 className='sm:text-5xl text-4xl font-bold text-gray-900'>I'm Sam Kang</h1>
@@ -14,9 +14,9 @@ const Main = () => {
                 sequence={[
                     ' a Front-End Developer',
                     1000, 
-                    ' aspired to become a Game Developer', 
+                    ' aspired to become a Game Software Developer', 
                     2000,
-                    ' a Tech Enthusiast',
+                    ' currently looking for a job!',
                     2000,
                 ]}
                 wrapper="span"

@@ -8,9 +8,9 @@ const data = [
     location: 'Niles, IL',
     duration: 'March 2022 - Present',
     details:
-    'Manage and lead a team of 4 hair designers and 3 assistant staffs to deliver high quality of service and ensure clientele satisfaction',
+    'Manage and lead a team of 5 hair designers and 3 assistant staffs to deliver high quality of service and ensure clientele satisfaction',
     details1:
-    'Coordinate daily scheduling amongst 4 hair designers on various type of service that requires different time length to fit as many clientele while maintaining high satisfaction which increased in daily sale by 8%~15%',
+    'Coordinate daily scheduling for the designers on various type of service that requires different time length (0.5-5 hours) to fit as many clientele while maintaining high satisfaction which increased in daily sale by 8%~15%',
     details2:
     'Optimized internal policy and enforced to maintain efficient workflow and minimize number of backed up on the service',
   },
